@@ -3,7 +3,7 @@
 <h2>👨‍💻 Investigate Suspicious PDF Project:</h2>
 
 - <b> Digital Forensic Report (Junior Digital Analyst)</b>
-  - [REMnux investigation](https://github.com/Muts256/Digital-Forensics)
+  - [REMnux investigation](https://github.com/Muts256/Suspicious-PDF)
   
 
 
