@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael! <br/><a href="https://www.linkedin.com/in/michael-musoke/">Cybersecurity Enthusiast</a></h1>
+<h1>Hi, I'm Michael! <br/><a href="https://www.linkedin.com/in/michael-musoke/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Investigate Suspicious PDF Project:</h2>
 
