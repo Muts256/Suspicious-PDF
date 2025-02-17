@@ -3,7 +3,7 @@
 <h2>👨‍💻 Digital Forensics & Malware Analysis:</h2>
 
 - <b> PDF Investigation</b>
-  - [REMnux investigation](https://github.com/Muts256/Suspicious-PDF)
+  - [REMnux investigation](https://github.com/Muts256/Digital-Forensic-And-Malware-Analysis)
   
 
 
