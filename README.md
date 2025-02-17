@@ -1,6 +1,6 @@
 <h1>Hi, I'm Michael! <br/><a href="https://www.linkedin.com/in/michael-musoke/">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Investigate Suspicious PDF Project:</h2>
+<h2>👨‍💻 Digital Forensics & Malware Analysis:</h2>
 
 - <b> PDF Investigation</b>
   - [REMnux investigation](https://github.com/Muts256/Suspicious-PDF)
